@@ -120,4 +120,4 @@ function updateCurrentPrayer() {
 updateCurrentPrayer();
 
 // Update every minute
-setInterval(updateCurrentPrayer, 60000);
+setInterval(updateCurrentPrayer, 1000);

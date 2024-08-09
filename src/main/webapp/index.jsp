@@ -49,7 +49,7 @@
 					    <div class="inputcontainer">
 						    <div class="firstrow">
 						        <div class="inputlabel">
-						            Filter By State
+						            Search By State
 						        </div>
 						        <div class="inputselect">
 						           	<select name="city" id="city">

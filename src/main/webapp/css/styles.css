@@ -437,7 +437,7 @@ select option {
 @media screen and (max-width: 583px) {
     .main-content{
         width: 100vw;
-        scale: 0.5;
+        scale: 0.6;
         height: 100vh;
         padding: 0;
         overflow: visible;
