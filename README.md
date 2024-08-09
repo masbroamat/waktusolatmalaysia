@@ -1,0 +1,1 @@
+Display the current time and the prayer time for each states in Malaysia.
